@@ -8,9 +8,10 @@ class LocationController {
 		def temp = "37.335871, -121.888165"
 		def x = [temp]
 		
-	[location: x]
-	 
+	[location: x, All: CycleInfo.findAll()]
 	
 	}
+
 	
+		
 }

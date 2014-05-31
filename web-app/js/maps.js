@@ -11,9 +11,8 @@ function initialize() {
 	
     map = new google.maps.Map(document.getElementById("map-canvas"), mapOptions);
     
-    
-  
-    
+   
+
     
     
     
@@ -38,7 +37,7 @@ document.getElementById("LOCX").value=tempLocX;
 document.getElementById("LOCY").value=tempLocY;
 
 var temp=document.getElementById("LOCX").value;
-alert(tempLocX);
+alert("X: "+tempLocX+" Y: "+tempLocY);
 var button = $('#reportCrime')
             
             if (button.hasClass('locate')) {

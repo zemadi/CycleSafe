@@ -238,7 +238,7 @@
     </footer>
     <p>locations</p>
 
-<g:each in="${location}" var="item">
+<g:each id="locvar" in="${location}" var="item">
 <br>${item}<br>
 <g:hiddenField name="myField" value="${item}" id="xLoc" />
 </g:each>
