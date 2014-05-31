@@ -6,25 +6,29 @@ This project was developed at the [National Day of Civic Hacking](http://hackfor
 
 More features will be added later!
 
-**Who would use CycleSafe?**
-•	Cyclists who ride a regular route and need to be prepared for any delays.
-•	Cyclists looking to plan a ride in an unfamiliar area.
-•	People looking for data to support bike road/trail improvements.
+<ol>**Who would use CycleSafe?**
+<li> Cyclists who ride a regular route and need to be prepared for any delays. </li>
+<li> Cyclists looking to plan a ride in an unfamiliar area. </li>
+<li> People looking for data to support bike road/trail improvements. </li>
+</ol>
 
-**Why would they use it?**
-•	They are unfamiliar with an area.
-•	They want an update or want to provide an update on existing conditions.
-•	Future add-on: Trip planning from point-to-point.
+<ol>**Why would they use it?**
+<li> They are unfamiliar with an area.  </li>
+<li> They want an update or want to provide an update on existing conditions. </li>
+<li> Future add-on: Trip planning from point-to-point. </li>
+</ol>
 
 **How would they use it?**
-How to find information about hazards:
-•	Select location to see if there are any hazards on their planned route.
-•	Get more information by clicking on map points.
+<ol>How to find information about hazards:
+<li> Select location to see if there are any hazards on their planned route. </li>
+<li> Get more information by clicking on map points. </li>
+</ol>
 
-How to report hazards:
-•	Click to select a location on the map.
-•	Enter data into the form
-•	Future add-on: upload a photo
+<ol>How to report hazards:
+<li> Click to select a location on the map. </li>
+<li> Enter data into the form </li>
+<li> Future add-on: upload a photo </li>
+</ol>
 
 <h2>Possible real-world uses for this app:</h2>
 <h3>USE CASE 1 – Preventative Measures</h3>
