@@ -34,10 +34,10 @@ Michelle bikes to work every day. Before she leaves, she pulls out her iPad and 
 On her way home from work, Michelle has to come to a sudden stop along Santa Clara Street in front of the Sharks Arena. Traffic has been reduced to one lane in each direction due to construction of a new statue commemorating the Sharks Stanley Cup victory. When she gets home Michelle goes to the CycleSafe website and logs an incident in the system. In the future, Michelle can pull off to the side, snap a quick photo of the area with her smartphone and then automatically upload the photo with the incident report.
 
 <h3>USE CASE 3 – Basic Trip Planning</h3>
-John and Kathy are planning a day-long bike excursion. Typically they find an area and then start exploring. Today they are bringing their niece and nephew on the trip so they want to make sure the route is safe. CycleSafe lists major incidents, but she doesn’t see anything in her area. She then goes to the map and zooms in notes there are restaurants and rest stops along the way. In the future she may be able to create trip maps but for now she can at least see if there are any reports of trouble spots on her route. Seeing no major problems, they put on their helmets and protective pads, pack snacks and water and head out for the day.
+John and Kathy are planning a day-long bike excursion. Typically they find an area and then start exploring. Today they are bringing their niece and nephew on the trip so they want to make sure the route is safe. CycleSafe lists major incidents, but she doesn’t see anything in her area. In the future she may be able to create trip maps but for now she can at least see if there are any dangerous places on their route. Seeing no major problems, they put on their helmets and protective pads, pack snacks and water and head out for the day.
 
 <h3>FUTURE USE CASE – Use of the data collected</h3>
-Once we have a significant pool of data, it can be analyzed for trends. Neighborhoods could use the data to identify areas of concern and work with cities and counties, state to make these areas safer.  
+Once we have a significant pool of data, it can be analyzed for trends. Neighborhoods could use the data to identify areas of concern and work with their city, county, etc. to make these areas safer.  
 
-Develop a suggestion box for frequent users that allow for recommended travel paths or allow users to recommend improvement to bike lanes or trails (as an example if a new entry or exit path should be created to enter a trail either for access purposes or safety.
+Get ideas from users and develop add-ons like safe travel paths, recommending improvements to roads, bike lanes and trails. 
 
