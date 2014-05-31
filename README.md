@@ -6,29 +6,29 @@ This project was developed at the [National Day of Civic Hacking](http://hackfor
 
 More features will be added later!
 
-<ol>**Who would use CycleSafe?**
+<ul>**Who would use CycleSafe?**
 <li> Cyclists who ride a regular route and need to be prepared for any delays. </li>
 <li> Cyclists looking to plan a ride in an unfamiliar area. </li>
 <li> People looking for data to support bike road/trail improvements. </li>
-</ol>
+</ul>
 
-<ol>**Why would they use it?**
+<ul>**Why would they use it?**
 <li> They are unfamiliar with an area.  </li>
 <li> They want an update or want to provide an update on existing conditions. </li>
 <li> Future add-on: Trip planning from point-to-point. </li>
-</ol>
+</ul>
 
 **How would they use it?**
-<ol>How to find information about hazards:
+<ul>How to find information about hazards:
 <li> Select location to see if there are any hazards on their planned route. </li>
 <li> Get more information by clicking on map points. </li>
-</ol>
+</ul>
 
-<ol>How to report hazards:
+<ul>How to report hazards:
 <li> Click to select a location on the map. </li>
 <li> Enter data into the form </li>
 <li> Future add-on: upload a photo </li>
-</ol>
+</ul>
 
 <h2>Possible real-world uses for this app:</h2>
 <h3>USE CASE 1 – Preventative Measures</h3>
